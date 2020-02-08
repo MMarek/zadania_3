@@ -34,10 +34,15 @@ a średnią wartością tablicy.
 #
 ### - zad.7
 Tablica, a z niej wypisanie pierwszej oraz ostatniej wartości, także wszystkich wratości przy pomocy `atrybutu length` 
-oraz funkcja w drugiej części która w konsoli pokazuje identyczny rezultat (polega jednak na pętli for iterującej każdy element).
+oraz funkcja w drugiej części która w konsoli pokazuje identyczny rezultat (polega jednak na pętli for iterującej każdy 
+element).
 #
 ### - zad.8
 Funkcja `mnożąca` każdą liczbę znajdującą się wewnątrz tablicy.
 #
 ### - zad.9
-Funkcja zwracjąca średnią wartość `parzystych liczb`, gdy tablica nie posiada parzystych liczb, w konsoli pojawi się informacja `null`.
+Funkcja zwracjąca średnią wartość `parzystych liczb`, gdy tablica nie posiada parzystych liczb, 
+w konsoli pojawi się informacja `null`.
+#
+### - zad.10
+Funkcja zwracająca posortowaną rosnąco tablicę. (dzięki metodzie tablicowej).
