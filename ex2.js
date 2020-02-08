@@ -26,4 +26,4 @@ console.log('Number 7 is ' + primeNumber(7));
 console.log('Number 8 is ' + primeNumber(8));
 console.log('Number 9 is ' + primeNumber(9));
 console.log('Number 10 is ' + primeNumber(10));
-console.log('Number 11 is ' + primeNumber(10));
+console.log('Number 11 is ' + primeNumber(11));
