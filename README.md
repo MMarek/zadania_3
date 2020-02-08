@@ -15,7 +15,7 @@ pi = 4 * ((1/1 - 1/3) + (1/5 - 1/7) + (1/9 - 1/11) + ...)
 ```
 podane kilka liczb iteracji w celu pokazania zmiany precyzji wyniku.
 #
-### - zad.3
+### - zad.4
 Funkcja zwracająca informację, czy podana liczba jest doskonała, niekompletna lub w sytuacji ani tego ani tego, zwraca 
 informację - false.
 ```JavaScript
@@ -24,3 +24,10 @@ np. 6 = 1 + 2 + 3
 Niekompletna, to taka której suma wszystkich dzielników jest mniejsza od niej samej.
 np. 10 = 1 + 2 + 5
 ```
+#
+### - zad.5
+`Interwał czasowy.` Co jedną sekundę, pojawia się napis i tak pięć razy.
+#
+### - zad.6
+Funkcja przyjmująca tablicę jako agrument, oraz zwracająca również tablicę z `różnicą pomiędzy` liczbą z danej komórki, 
+a średnią wartością tablicy.
