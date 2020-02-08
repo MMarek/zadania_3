@@ -1,4 +1,8 @@
-###Kontynuacja zadań z działu `Pętle, Tablice oraz Funkcje` / LOVE JS :) 
+### Kontynuacja zadań z działu `Pętle, Tablice oraz Funkcje` / LOVE JS :) 
 ##
 
-##- zad.1 - 
+### - zad.1 
+ `Ciąg Fibonacciego.`
+#
+### - zad.2
+ 
