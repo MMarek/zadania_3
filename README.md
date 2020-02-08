@@ -37,4 +37,7 @@ Tablica, a z niej wypisanie pierwszej oraz ostatniej wartości, także wszystkic
 oraz funkcja w drugiej części która w konsoli pokazuje identyczny rezultat (polega jednak na pętli for iterującej każdy element).
 #
 ### - zad.8
-Funkcja mnożąca każdą liczbę znajdującą się wewnątrz tablicy.
+Funkcja `mnożąca` każdą liczbę znajdującą się wewnątrz tablicy.
+#
+### - zad.9
+Funkcja zwracjąca średnią wartość `parzystych liczb`, gdy tablica nie posiada parzystych liczb, w konsoli pojawi się informacja `null`.
