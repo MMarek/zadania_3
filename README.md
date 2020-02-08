@@ -31,3 +31,7 @@ np. 10 = 1 + 2 + 5
 ### - zad.6
 Funkcja przyjmująca tablicę jako agrument, oraz zwracająca również tablicę z `różnicą pomiędzy` liczbą z danej komórki, 
 a średnią wartością tablicy.
+#
+### - zad.7
+Tablica, a z niej wypisanie pierwszej oraz ostatniej wartości, także wszystkich wratości przy pomocy `atrybutu length` 
+oraz funkcja w drugiej części która w konsoli pokazuje identyczny rezultat (polega jednak na pętli for iterującej każdy element).
