@@ -46,3 +46,7 @@ w konsoli pojawi się informacja `null`.
 #
 ### - zad.10
 Funkcja zwracająca posortowaną rosnąco tablicę. (dzięki metodzie tablicowej).
+#
+### - zad.11
+Funkcja przyjmująca za argument `dwie tablice`, oraz zwracająca jedną w której `każdy element o tym samym indeksie 
+jest dodany`. W sytuacji gdy elementów jest więcej, te są po prostu przepisywane.
