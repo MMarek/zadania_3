@@ -50,3 +50,6 @@ Funkcja zwracająca posortowaną rosnąco tablicę. (dzięki metodzie tablicowej
 ### - zad.11
 Funkcja przyjmująca za argument `dwie tablice`, oraz zwracająca jedną w której `każdy element o tym samym indeksie 
 jest dodany`. W sytuacji gdy elementów jest więcej, te są po prostu przepisywane.
+#
+### - zad.12
+`Tablica wielowymiarowa`, a z niej w pierwszej części wypisane poszczególne pozycje. W drugiej części `Funkcja` przyjmująca jako argument tablicę dwuwymiarową, następnie jest wypisana w konsoli jej zawartość.
