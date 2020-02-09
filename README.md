@@ -52,4 +52,10 @@ Funkcja przyjmująca za argument `dwie tablice`, oraz zwracająca jedną w któr
 jest dodany`. W sytuacji gdy elementów jest więcej, te są po prostu przepisywane.
 #
 ### - zad.12
-`Tablica wielowymiarowa`, a z niej w pierwszej części wypisane poszczególne pozycje. W drugiej części `Funkcja` przyjmująca jako argument tablicę dwuwymiarową, następnie jest wypisana w konsoli jej zawartość.
+`Tablica wielowymiarowa`, a z niej w pierwszej części wypisane poszczególne pozycje. W drugiej części 
+`Funkcja` przyjmująca jako argument tablicę dwuwymiarową, następnie jest wypisana w konsoli jej zawartość.
+#
+Zachęcam sprawdzić rezultat powyższych starań na: https://mmarek.github.io/zadania_3/index.html
+```JavaScript
+Zapraszam oczywiście w towarzystwie inspektora :)
+```
